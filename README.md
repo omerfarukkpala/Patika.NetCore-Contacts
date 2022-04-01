@@ -12,24 +12,24 @@ Telefon Rehberi Uygulaması
 
 <h3>Başlangıç</h3>
 
-![main]![ilkhalitelefon](https://user-images.githubusercontent.com/101570820/161280880-e6ab8d98-3411-4a92-ae1a-27b2c0c1cbd9.jpg)
+![ilkhalitelefon](https://user-images.githubusercontent.com/101570820/161280880-e6ab8d98-3411-4a92-ae1a-27b2c0c1cbd9.jpg)
 
 <h3>1) Yeni Numara Kaydetmek</h3>
 
-![add]
+![yeninumarakaydetmek](https://user-images.githubusercontent.com/101570820/161280860-3addf143-ee6b-456a-8b41-d7e1a988293f.jpg)
 
 <h3>2) Varolan Numarayı Silmek</h3>
 
-![delete]
+![numarasilme](https://user-images.githubusercontent.com/101570820/161280877-335eb1fd-af01-48b0-820e-d17b298ae1dc.jpg)
 
 <h3>3) Varolan Numarayı Güncelleme</h3>
 
-![update]
+![numaragüncellemesi](https://user-images.githubusercontent.com/101570820/161280876-fb18e61e-b923-495e-a97c-8249488eb398.jpg)
 
 <h3>4) Rehberi Listelemek</h3>
+![ilkhalitelefon](https://user-images.githubusercontent.com/101570820/161280880-e6ab8d98-3411-4a92-ae1a-27b2c0c1cbd9.jpg)
 
-![print]
 
-<h3>5) Rehberde Arama Yapmak?</h3>
+<h3>5) Rehberde Arama Yapmak</h3>
+![aramayapmakson](https://user-images.githubusercontent.com/101570820/161280867-7fdbcee9-2321-4eb5-ab6e-d16a95a3f24e.jpg)
 
-![search]
