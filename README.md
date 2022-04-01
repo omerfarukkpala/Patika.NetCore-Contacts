@@ -8,3 +8,28 @@ Telefon Rehberi Uygulaması
 <h3>3) Varolan Numarayı Güncelleme</h3>
 <h3>4) Rehberi Listelemek</h3>
 <h3>5) Rehberde Arama Yapmak?</h3>
+
+
+<h3>Başlangıç</h3>
+
+![main]
+
+<h3>1) Yeni Numara Kaydetmek</h3>
+
+![add]
+
+<h3>2) Varolan Numarayı Silmek</h3>
+
+![delete]
+
+<h3>3) Varolan Numarayı Güncelleme</h3>
+
+![update]
+
+<h3>4) Rehberi Listelemek</h3>
+
+![print]
+
+<h3>5) Rehberde Arama Yapmak?</h3>
+
+![search]
