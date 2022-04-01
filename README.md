@@ -12,7 +12,7 @@ Telefon Rehberi Uygulaması
 
 <h3>Başlangıç</h3>
 
-![main]
+![main]![ilkhalitelefon](https://user-images.githubusercontent.com/101570820/161280880-e6ab8d98-3411-4a92-ae1a-27b2c0c1cbd9.jpg)
 
 <h3>1) Yeni Numara Kaydetmek</h3>
 
