@@ -1,6 +1,6 @@
 # Patika.NetCore101-Contacts    
   
-# Phone Directory Application 
+# Phone Directory Application  
 
 <h1>Features</h1>
 <h3>1) Add a New Contact</h3>
