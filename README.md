@@ -7,7 +7,7 @@
 <h3>2) Delete an Existing Contact</h3>
 <h3>3) Update an Existing Contact</h3>
 <h3>4) List Contacts</h3>
-<h3>5) Search in the Directory</h3>
+<h3>5) Search in the Directory</h3> 
 <h3>Getting Started</h3>
   
 <h3>Getting Started</h3>
